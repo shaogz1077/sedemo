@@ -7,6 +7,7 @@ public class UserInfo implements Serializable{
 	private String userName;
 	private String passWord;
 	private String userType;
+	private String ID;
 	public String getUserName() {
 		return userName;
 	}
